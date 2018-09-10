@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Livros App</string>
+    <string name="textGenero">Gênero:</string>
+    <string name="buttonSalvar">Salvar</string>
+</resources>
