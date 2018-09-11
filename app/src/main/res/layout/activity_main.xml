@@ -7,6 +7,11 @@
     android:orientation="vertical"
     tools:context="br.com.opet.tds.livrosapp.MainActivity">
 
+    <!--<EditText-->
+        <!--android:id="@+id/editGenero"-->
+        <!--android:hint="Titulo do Livro"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content" />-->
     <EditText
         android:id="@+id/editTitulo"
         android:hint="Titulo do Livro"

@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LivrosApp.iml" filepath="$PROJECT_DIR$/LivrosApp.iml" />
+      <module fileurl="file://C:\Users\opet\StudioProjects\LivrosApp\LivrosApp.iml" filepath="C:\Users\opet\StudioProjects\LivrosApp\LivrosApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\opet\StudioProjects\LivrosApp\app\app.iml" filepath="C:\Users\opet\StudioProjects\LivrosApp\app\app.iml" />
     </modules>
   </component>
 </project>
