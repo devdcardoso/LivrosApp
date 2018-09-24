@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LivrosApp.iml" filepath="$PROJECT_DIR$/LivrosApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebasestorage/firebasestorage.iml" filepath="$PROJECT_DIR$/firebasestorage/firebasestorage.iml" />
     </modules>
   </component>
 </project>
